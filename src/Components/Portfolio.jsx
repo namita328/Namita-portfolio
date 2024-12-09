@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Qkart-Ecommerce website",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "QKart is an e-commerce application where the user implemented authentication, shopping cart, and checkout logic. They also improved the UI with responsive design elements and utilized REST APIs to dynamically load data from the backend server",
+    url: "https://namita-q-kart.netlify.app/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Qtrip Dynamic",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "QTrip is a travel website where the user created dynamic web pages using HTML, CSS, and JavaScript, enhanced UX with multi-select filters and image carousels, and utilized localStorage to persist user preferences on the client-side",
+    url: "https://namita-qtrip-dynamic.netlify.app/",
   },
   {
-    title: "My Resume Site",
+    title: "Weather app",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "The weather dashboard provides real-time weather information, including current conditions and a 7-day forecast for different cities. It offers an intuitive interface for users to easily access weather data and plan their activities accordingly",
+    url: "https://weather-dashboard-beige.vercel.app/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Admin-UI",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "The admin UI is an intuitive interface that allows administrators to manage users, monitor data, and configure settings, featuring organized navigation, dashboards, and interactive elements for efficient management",
+    url: "https://namita-admin-ui.netlify.app/",
   },
 ];
 
