@@ -26,9 +26,9 @@ import "./styles.css";
 const siteProps = {
   name: "Namita Agrawal",
   title: "Frontend Developer & Certified Business and Finance Administrator",
-  email: "Namitaagrawal722@gmail.com",
-  gitHub: "https://github.com/namita328",
-  linkedIn: "https://www.linkedin.com/in/namita-agrawal23",
+  email: "namitaagrawal722@gmail.com",
+  gitHub: "namita328",
+  linkedIn: "namita-agrawal23",
 };
 
 const primaryColor = "#4E567E";
